@@ -1,4 +1,4 @@
-# Internship Road
+# C / Python 学习笔记与练习代码
 
 C / Python 学习笔记与练习代码仓库。
 
